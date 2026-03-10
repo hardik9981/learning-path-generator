@@ -15,6 +15,22 @@ A Flask-based web application that generates personalized learning paths based o
   - Current skill level (Beginner/Intermediate/Advanced)
   - Career goals
 
+
+## 📸 Demo Screenshots
+
+### Home Page
+![Home Page](screenshots/home.png)
+
+### Generated Learning Path
+![Learning Path](screenshots/learning-path.png)
+
+### Certificate Generation
+![Certificate](screenshots/certificate.png)
+
+### Certificate Generation
+![DataBase](screenshots/database.png)
+
+
 ### 2. **Dynamic Learning Path Generation**
 - Rule-based path generation engine
 - Subject-specific pathways (e.g., Geography, Music)
