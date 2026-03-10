@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Learning Path History</title>
+</head>
+
+<body>
+
+<h2>Your Generated Learning Paths</h2>
+
+{% for row in data %}
+
+<div style="border:1px solid #ccc; padding:10px; margin:10px;">
+<p>{{ row.path }}</p>
+<small>{{ row.created_at }}</small>
+</div>
+
+{% endfor %}
+
+</body>
+</html>
