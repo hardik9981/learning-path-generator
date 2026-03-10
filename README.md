@@ -31,7 +31,7 @@ A Flask-based web application that generates personalized learning paths based o
 ### Certificate Generation
 ![Certificate](screenshots/certificate.png)
 
-### Certificate Generation
+### Database
 ![DataBase](screenshots/database.png)
 
 
@@ -282,5 +282,6 @@ pip install -r requirements.txt
 This project is open-source and available for educational purposes.
 
 ## Contact
-
+Author: 
+       Hardik Kumar
 For questions or contributions, please reach out to the project maintainer.
