@@ -2,6 +2,10 @@
 
 A Flask-based web application that generates personalized learning paths based on learner profiles and preferences.
 
+## 🌐 Live Demo
+
+🔗 https://learning-path-generator-uf6z.onrender.com
+
 ## Features
 
 ### 1. **Learner Profile Management**
